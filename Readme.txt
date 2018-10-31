@@ -1,3 +1,11 @@
+The trained data and result are too large so that I only uploaded the source code.
+
+
+
+
+
+
+
 #################### Part 1: folder introduction ####################
 Path of the folder								Description
 project/hand_pose								Training data
